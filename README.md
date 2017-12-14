@@ -1,3 +1,3 @@
 # autofaces
 
-Welcome
+JSF Project for online purchasing and selling of vehicles.
